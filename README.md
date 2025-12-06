@@ -1,6 +1,4 @@
-Here is a complete, ready-to-write `README.md` for your project. Copy the block below into `README.md` at the repository root (or I can create it for you).
 
-```markdown
 # EigenFace-project
 
 ## Project Overview
